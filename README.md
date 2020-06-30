@@ -1,2 +1,3 @@
 # Boutique_Website
 The main objective of the project on Online boutique management system is to manage and maintain the details of all the available boutiques, designs, dress materials, stitched fabrics, customers, delivery dates, their products and billing. The customers can login to place the orders. The tailors can also login to get the orders from their customers. The main purpose of the project is to build an online website that reduces the time and manual entry of the customer details.
+https://github.com/kushalkumarcs99/Boutique_Website/commit/5ef2b7f9b724a64d95fc6477eaad1d6c3baf91e6?short_path=e1bd607#diff-58f7d6977bfcafdb48e4542fe533d634
