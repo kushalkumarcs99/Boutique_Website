@@ -1,0 +1,67 @@
+
+
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    background: linear-gradient(rgba( 0, 0, 150, 0.5),rgba(0, 0, 50, 0.5)),url(contact-us.jpeg);
+    background-size: cover;
+    background-position:center;
+    font-family: 'Coiny', cursive;}
+  
+  .contact{
+    margin-top: 100px;
+    color: #fff;
+    text-transform: uppercase;
+    font-family: 'Coiny', cursive;
+    transition: all 4s ease-in-out;
+  }
+  
+  .contact h2{
+    font-size: 32px;
+    font-family: 'Coiny', cursive;
+  }
+  
+  form{
+    margin-top: 50px;
+    font-family: 'Coiny', cursive;
+    transition: all 4s ease-in-out;
+  }
+  
+  .form-control{
+    width: 600px;
+    background: transparent;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid gray;
+    color: #fff;
+    font-size: 18px;
+    font-family: 'Coiny', cursive;
+    margin-bottom: 16px;
+  }
+  
+  input{
+    height: 45px;
+    font-family: 'Coiny', cursive;
+  }
+  
+  form .submit{
+    background-color: #ff5722;
+    border-color: transparent;
+    color: #fff;
+    font-size: 20px;
+    font-family: 'Coiny', cursive;
+    font-weight: bold;
+    letter-spacing: 2px;
+    height: 50px;
+    margin-top: 20px;
+  }
+  
+  form .submit{
+    background-color: #f44336;
+    cursor: pointer;
+    font-family: 'Coiny', cursive;
+  }
+  
